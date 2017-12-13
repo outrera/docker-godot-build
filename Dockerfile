@@ -1,5 +1,5 @@
 
-FROM debian:stretch-slim
+FROM ubuntu:xenial
 
 
 RUN apt -yqq update; \
